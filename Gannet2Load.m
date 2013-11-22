@@ -5,6 +5,8 @@ function MRS_struct=Gannet2Load(gabafile, waterfile)
 %Aim to make the GannetLoad more modular and easier to understand/edit, and
 %especially to integrate the workflow for different filetypes more.
 
+%NP copy just checking whether this works!
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Work flow Summary
 %   1.Pre-initialise
